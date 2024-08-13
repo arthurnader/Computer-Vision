@@ -17,9 +17,12 @@ Using convolutional neural networks, this project aims to automatically solve CA
 
 <img src="/images/captcha.png" alt="Alt Text" width="300"/>
 
-## Image compressing
+## Image Compressing
 This project focuses on image compression, reducing file sizes without significantly compromising visual quality. To evaluate the compression, metrics such as compression rate, PSNR, and RMSE were used.
 
+## Gestures and Actions
+
+<img src="/images/hand-detection.gif" alt="Alt Text" width="200" height="250"/>
 
 ## Computer Vision Scraper
-This is a conceptual project aimed at large-scale data collection using Computer Vision. The idea is based on the observation that button templates often repeat across various websites, allowing for the creation of a
+This is a conceptual project aimed at large-scale data collection using Computer Vision. The idea is based on the observation that button templates often repeat across various websites, allowing for the creation of a unique code, regardless of the HTML structure, to click in the button.
